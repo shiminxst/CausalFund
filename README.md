@@ -1,6 +1,4 @@
-# CausalFund: Domain-Invariant Fundus Image Analysis
-
-**Causal Representation Learning for Robust Glaucoma Detection Across Image Quality Domains**
+# CausalFund
 
 ## Installation
 
